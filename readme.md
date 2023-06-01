@@ -1,1 +1,1 @@
-* [Nodered](./nodered)
+* [Nodered](./Nodered)
